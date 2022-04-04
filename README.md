@@ -19,3 +19,6 @@ Notebook Order:
 5:  Bitcoin Modelling Part 1 SARIMAX.ipynb
 
 6:  Bitcoin Modelling Part 2 - Facebook Prophet.ipynb
+
+The data for this project can be downloaded from this DropBox using the link:
+https://www.dropbox.com/scl/fo/74qne1f61apfznm8ktcw4/h?dl=0&rlkey=937rjr2f982orhiae3mw2s8jb 
