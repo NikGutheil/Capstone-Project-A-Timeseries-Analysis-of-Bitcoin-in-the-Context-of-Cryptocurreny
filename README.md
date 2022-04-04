@@ -6,6 +6,8 @@ That should help you gain an understanding of what this project is all about.
 If you want to follow the process of this project from start to finish, please read the notebooks in this order. Notebook 2 and 3 are very similar,
 and both dont need to be read. That being said, Notebook 2 contains more information regarding the Feature Engineering Process as it deals with resampling from lower time frames
 
+In order to run this notebook, you will have to set up a new environment using the myenvfile.txt provided in the main repo.
+
 Notebook Order: 
 
 1:  Acquiring and Cleaning Historical Price Data for Cryptocurrencies.ipynb 
